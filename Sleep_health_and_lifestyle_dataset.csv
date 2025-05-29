@@ -301,7 +301,7 @@ Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activit
 300,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
 301,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
 302,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
-303,Female,51,Nurse,7.1,7,55,6,Normal Weight,125/82,72,6000,None
+303,Female,51,Nurse,7.1,7,55,6,Normal,125/82,72,6000,None
 304,Female,51,Nurse,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
 305,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
 306,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
