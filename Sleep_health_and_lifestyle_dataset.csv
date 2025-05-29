@@ -160,8 +160,8 @@ Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activit
 159,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
 160,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
 161,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
-162,Female,40,Accountant,7.2,8,55,6,Normal Weight,119/77,73,7300,None
-163,Female,40,Accountant,7.2,8,55,6,Normal Weight,119/77,73,7300,None
+162,Female,40,Accountant,7.2,8,55,6,Normal,119/77,73,7300,None
+163,Female,40,Accountant,7.2,8,55,6,Normal,119/77,73,7300,None
 164,Male,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,None
 165,Male,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,None
 166,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,Insomnia
