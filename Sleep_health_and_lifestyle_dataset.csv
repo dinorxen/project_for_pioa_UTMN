@@ -147,9 +147,9 @@ Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activit
 146,Female,38,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea
 147,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,Insomnia
 148,Male,39,Engineer,6.5,5,40,7,Overweight,132/87,80,4000,Insomnia
-149,Female,39,Lawyer,6.9,7,50,6,Normal Weight,128/85,75,5500,None
-150,Female,39,Accountant,8,9,80,3,Normal Weight,115/78,67,7500,None
-151,Female,39,Accountant,8,9,80,3,Normal Weight,115/78,67,7500,None
+149,Female,39,Lawyer,6.9,7,50,6,Normal,128/85,75,5500,None
+150,Female,39,Accountant,8,9,80,3,Normal,115/78,67,7500,None
+151,Female,39,Accountant,8,9,80,3,Normal,115/78,67,7500,None
 152,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
 153,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
 154,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
